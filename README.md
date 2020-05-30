@@ -1,8 +1,6 @@
 # Graduate Record Examinations (GRE)
 
- > 我叫 Stephen，2017 年 [UCLA] 数学本科毕业，这是我收集的一些备考 [GRE](https://www.ets.org/gre) 的资料。
- 
- > 这是我的[个人网站].
+ > 我叫 [Stephen]，2017 年 [UCLA] 数学本科毕业，这是我收集的一些备考 [GRE](https://www.ets.org/gre) 的资料。
  
  > Thanks: [Master_US] and [FLY_US]。
 
@@ -64,7 +62,7 @@ Git 是一个版本控制工具，GitHub 是一个代码托管平台，关于 Gi
 
 [UCLA]:
 http://www.ucla.edu/
-[个人网站]:
+[Stephen]:
 https://stephenwang.me/
 [Master_US]:
 https://github.com/Maecenas/Master_US/
