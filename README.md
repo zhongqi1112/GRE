@@ -1,8 +1,6 @@
-# GRE
+# Graduate Record Examinations (GRE)
 
-US Graduate Preparation
-
- > 我叫 Stephen，2017 年 [UCLA] 数学本科毕业，这是我收集的一些备考 GRE 的资料。
+ > 我叫 Stephen，2017 年 [UCLA] 数学本科毕业，这是我收集的一些备考 [GRE](https://www.ets.org/gre) 的资料。
  
  > 这是我的[个人网站].
  
@@ -35,11 +33,6 @@ GRE复习主要用：
   > 机经：[考满分_机经]
   
   > 经验：[千张_如何准备 GRE 考试？]
-  
-
-TOEFL复习主要用：
-
-  > [TPO]
 
  更多内容请浏览文件夹。
 
@@ -101,8 +94,6 @@ https://gre.kmf.com/
 https://github.com/zhongqi1112/GRE/tree/master/%E6%9C%BA%E7%BB%8F/recommended
 [千张_如何准备 GRE 考试？]: 
 https://www.zhihu.com/question/19767285/answer/149894118
-[TPO]: 
-http://bbs.zhan.com/forum-41-1.html
 
 [Git 客户端]: 
 http://git-scm.com/downloads
