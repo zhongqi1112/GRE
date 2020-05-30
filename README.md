@@ -2,13 +2,11 @@
 
 US Graduate Preparation
 
- > 我叫 Stephen，2017 年 [UCLA] 本科毕业，这是我在备考美国 Graduate School 时收集的一些资料，包括 GRE 还有托福资料。
+ > 我叫 Stephen，2017 年 [UCLA] 数学本科毕业，这是我收集的一些备考 GRE 的资料。
  
- > 这是我的[Linkedin][linkedin].
+ > 这是我的[个人网站].
  
- > GRE 资料中还有我制作的「杨鹏_《新东方•GRE & GMAT阅读难句教程》」等 ANKI 文件，也可以在 [ANKI 共享牌组][Anki Shared Decks]中搜索到。
- 
- > 项目启发：[Master_US] and [FLY_US]。
+ > Thanks: [Master_US] and [FLY_US]。
 
 ***
 
@@ -75,18 +73,20 @@ Git 是一个版本控制工具，GitHub 是一个代码托管平台，关于 Gi
 
 [UCLA]:
 http://www.ucla.edu/
-[linkedin]:
-https://www.linkedin.com/in/stephenzwang/
-[Anki Shared Decks]:
-https://ankiweb.net/shared/decks/
+[个人网站]:
+https://stephenwang.me/
 [Master_US]:
 https://github.com/Maecenas/Master_US/
 [FLY_US]:
 https://github.com/hot13399/FLY_US/
-[一亩三分地论坛]:
-http://www.1point3acres.com/
+
 [寄托天下]:
 http://bbs.gter.net/
+[一亩三分地论坛]:
+http://www.1point3acres.com/
+[GRE Official Guidence]: 
+https://github.com/Maecenas/Master_US/tree/master/GRE/GRE%20Guidance/recommended
+
 [GRE 考满分]: 
 https://gre.kmf.com/
 [千张_如何准备 GRE 考试？]: 
