@@ -1,3 +1,5 @@
+Github Website: https://github.com/zhongqi1112/GRE
+
 你可以点击右上角的 Star 关注这个项目更新。
 
 安装一个 [Git 客户端]，然后进入 CMD 或者 Terminal，

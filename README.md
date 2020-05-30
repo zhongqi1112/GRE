@@ -39,9 +39,9 @@ GRE复习主要用：
 下载资源
 
 1. 点击页面右上角打包下载
-2. 使用 [GitHub] 下载: `https://github.com/zhongqi1112/GRE.git`
+2. 使用 Git 下载: `https://github.com/zhongqi1112/GRE.git`
 
-PS: [了解如何使用GitHub]
+PS: [了解如何使用Git]
 
 
 ***
@@ -64,5 +64,4 @@ PS: [了解如何使用GitHub]
 [考满分_机经]: https://github.com/zhongqi1112/GRE/tree/master/%E6%9C%BA%E7%BB%8F/recommended
 [千张_如何准备 GRE 考试？]: https://www.zhihu.com/question/19767285/answer/149894118
 
-[Github]: https://github.com/
-[了解如何使用GitHub]: https://github.com/zhongqi1112/GRE/blob/master/howToUseGithub.md
+[了解如何使用Git]: https://github.com/zhongqi1112/GRE/blob/master/howToUseGithub.md
