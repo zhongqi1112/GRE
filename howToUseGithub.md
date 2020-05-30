@@ -6,7 +6,7 @@
 
 `git clone https://github.com/zhongqi1112/Hulk.git`
 
-Git 是一个版本控制工具，GitHub 是一个代码托管平台，关于 Git 和 GitHub 的更多信息可以浏览：
+Git 是一个版本控制工具，[GitHub] 是一个代码托管平台，关于 Git 和 GitHub 的更多信息可以浏览：
   
   > [Git 教程 - 廖雪峰]
   
@@ -21,6 +21,8 @@ Git 是一个版本控制工具，GitHub 是一个代码托管平台，关于 Gi
 
 [Git 客户端]: 
 http://git-scm.com/downloads
+[GitHub]:
+https://github.com/
 [Git 教程 - 廖雪峰]: 
 https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 [Github.Help]: 
