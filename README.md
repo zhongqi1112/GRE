@@ -32,7 +32,7 @@ GRE复习主要用：
   
   > 经验：[千张_如何准备 GRE 考试？]
 
- 更多内容请浏览文件夹。
+ 更多内容请浏览[文件夹]。
 
 ***
 
@@ -63,5 +63,6 @@ PS: [了解如何使用Git]
 [GRE 考满分]: https://gre.kmf.com/
 [考满分_机经]: https://github.com/zhongqi1112/GRE/tree/master/%E6%9C%BA%E7%BB%8F/recommended
 [千张_如何准备 GRE 考试？]: https://www.zhihu.com/question/19767285/answer/149894118
+[文件夹]: https://github.com/zhongqi1112/GRE
 
 [了解如何使用Git]: https://github.com/zhongqi1112/GRE/blob/master/howToUseGithub.md
