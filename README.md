@@ -2,7 +2,7 @@
 
  > 我叫 [Stephen]，2017 年 [UCLA] 数学本科毕业，这是我收集的一些备考 [GRE](https://www.ets.org/gre) 的资料。
  
- > Thanks: [Master_US] and [FLY_US]。
+ > Thanks: [Maecenas] and [Jerry]。
 
 ***
 
@@ -47,8 +47,8 @@ GRE复习主要用：
 
 [UCLA]: http://www.ucla.edu/
 [Stephen]: https://stephenwang.me/
-[Master_US]: https://github.com/Maecenas/Master_US/
-[FLY_US]: https://github.com/hot13399/FLY_US/
+[Maecenas]: https://github.com/Maecenas/Master_US/
+[Jerry]: https://github.com/hot13399/FLY_US/
 
 [寄托天下]: http://bbs.gter.net/
 [一亩三分地论坛]: http://www.1point3acres.com/
@@ -62,6 +62,6 @@ GRE复习主要用：
 [GRE 考满分]: https://gre.kmf.com/
 [考满分_机经]: https://github.com/zhongqi1112/GRE/tree/master/%E6%9C%BA%E7%BB%8F/recommended
 [千张_如何准备 GRE 考试？]: https://www.zhihu.com/question/19767285/answer/149894118
-[文件夹]: https://github.com/zhongqi1112/GRE
+[文件夹]: https://github.com/zhongqi1112/GRE/
 
 [了解如何使用Git]: https://github.com/zhongqi1112/GRE/blob/master/HowToUseGit.md
