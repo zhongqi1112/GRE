@@ -1,13 +1,14 @@
-# Master_US
+# GRE
+
 US Graduate Preparation
 
- > 我叫 Maecenas，预计 2018 年本科毕业，这是我在备考美国大学研究生时收集的一些资料，包括 GRE 还有托福资料。
+ > 我叫 Stephen，2017 年 UCLA[ucla] 本科毕业，这是我在备考美国 Graduate School 时收集的一些资料，包括 GRE 还有托福资料。
  
- > 这是我的[知乎][myzhihu]，微信（398500184），[邮箱][mymail]。
+ > 这是我的[Linkedin][linkedin].
  
  > GRE 资料中还有我制作的「杨鹏_《新东方•GRE & GMAT阅读难句教程》」等 ANKI 文件，也可以在 [ANKI 共享牌组][Anki Shared Decks]中搜索到。
  
- > 项目受 [hot13399] 维护的项目启发：[FLY_US]。
+ > 项目启发：[Master_US] and [FLY_US]。
 
 ***
 
@@ -37,7 +38,6 @@ GRE复习主要用：
   
   > 经验：[千张_如何准备 GRE 考试？]
   
-  > ~~备份：[GRE_百度网盘][] #6bac~~
 
 TOEFL复习主要用：
 
@@ -53,7 +53,7 @@ TOEFL复习主要用：
 
 运行以下命令即可：
 
-`git clone --depth=1 https://github.com/Maecenas/Master_US.git`
+`git clone https://github.com/zhongqi1112/Hulk.git`
   
 你可以点击右上角的 Star 关注这个项目更新。
 
@@ -73,14 +73,14 @@ Git 是一个版本控制工具，GitHub 是一个代码托管平台，关于 Gi
 
 ***
 
-[myzhihu]:
-https://www.zhihu.com/people/li-xiang-85-86 "我的知乎"
-[mymail]:
-mailto:lx70716@gmail.com "我的邮箱"
-[hot13399]:
-https://github.com/hot13399
+[ucla]:
+http://www.ucla.edu/
+[linkedin]:
+https://www.linkedin.com/in/stephenzwang/
 [Anki Shared Decks]:
 https://ankiweb.net/shared/decks/
+[Master_US]:
+https://github.com/Maecenas/Master_US/
 [FLY_US]:
 https://github.com/hot13399/FLY_US/
 [一亩三分地论坛]:
@@ -91,8 +91,6 @@ http://bbs.gter.net/
 https://gre.kmf.com/
 [千张_如何准备 GRE 考试？]: 
 https://www.zhihu.com/question/19767285/answer/149894118
-[GRE_百度网盘]:
-https://pan.baidu.com/s/1kU8Xz99
 [Git 客户端]: 
 http://git-scm.com/downloads
 [大白话解释 Git 和 GitHub]: 
