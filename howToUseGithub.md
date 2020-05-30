@@ -1,12 +1,10 @@
-如果你没有用过 GitHub，但是想快速下载这里的内容，可以直接在页面右上角打包下载。
+你可以点击右上角的 Star 关注这个项目更新。
 
-你也安装一个 [Git 客户端]，然后进入 CMD 或者 Terminal，
+安装一个 [Git 客户端]，然后进入 CMD 或者 Terminal，
 
 运行以下命令即可：
 
 `git clone https://github.com/zhongqi1112/Hulk.git`
-  
-你可以点击右上角的 Star 关注这个项目更新。
 
 Git 是一个版本控制工具，GitHub 是一个代码托管平台，关于 Git 和 GitHub 的更多信息可以浏览：
   
@@ -20,7 +18,6 @@ Git 是一个版本控制工具，GitHub 是一个代码托管平台，关于 Gi
   
   > [Anki 理解笔记]
 
-***
 
 [Git 客户端]: 
 http://git-scm.com/downloads
