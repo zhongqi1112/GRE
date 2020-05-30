@@ -2,7 +2,7 @@
 
 US Graduate Preparation
 
- > 我叫 Stephen，2017 年 UCLA[UCLA] 本科毕业，这是我在备考美国 Graduate School 时收集的一些资料，包括 GRE 还有托福资料。
+ > 我叫 Stephen，2017 年 [UCLA] 本科毕业，这是我在备考美国 Graduate School 时收集的一些资料，包括 GRE 还有托福资料。
  
  > 这是我的[Linkedin][linkedin].
  
