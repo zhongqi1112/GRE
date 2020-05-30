@@ -106,7 +106,7 @@ Anki 是一款开源、跨平台、拓展性强的记忆卡软件。采用基于
 
 
 [公共仓库]:
-https://github.com/Maecenas/Master_US/
+https://github.com/zhongqi1112/GRE
 [寄托天下]:
 http://bbs.gter.net/
 [一亩三分地]:
@@ -118,7 +118,7 @@ http://bbs.gter.net/thread-1510435-1-1.html/
 [千张_如何准备 GRE 考试？]: 
 https://www.zhihu.com/question/19767285/answer/149894118/
 [逻辑谬误]:
-https://github.com/Maecenas/Master_US/blob/master/GRE/%E5%86%99%E4%BD%9C/How%20to%20Refute%20Logical%20Fallacies%20and%20Develop%20Reasoning.pdf/
+https://github.com/zhongqi1112/GRE/blob/master/%E5%86%99%E4%BD%9C/How%20to%20Refute%20Logical%20Fallacies%20and%20Develop%20Reasoning.pdf
 [@山羊月]:
 https://www.zhihu.com/people/shan-yang-yue/
 [山羊月：笔记]:
