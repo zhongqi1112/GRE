@@ -1,8 +1,8 @@
-# Graduate Record Examinations (GRE)
+# GRE
 
- > 我叫 [Stephen]，2017 年 [UCLA] 数学本科毕业，这是我收集的一些备考 [GRE](https://www.ets.org/gre) 的资料。
+ > 我叫 [Stephen]，本科毕业于 [UCLA] 计算机数学专业，这是我收集的一些备考 Graduate Record Examinations [GRE](https://www.ets.org/gre) 的资料。
  
- > Thanks: [Maecenas] and [Jerry]。
+ > Thanks: [Maecenas] and [Jerry].
 
 ***
 
@@ -21,7 +21,7 @@ GRE复习主要用：
   > 填空：[麟渡兮填空]
   
   > 阅读：[陈虎平_新 GRE 阅读理解 36 套]
-    
+
   > 阅读：[杨鹏_GRE & GMAT 阅读难句教程]
   
   > 写作：[新 GRE 写作 5.5]
