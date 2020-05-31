@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/zhongqi1112/GRE/blob/master/GRE_logo.png" alt="GRE logo"></p>
+<p align="center"><img src="https://github.com/zhongqi1112/GRE/blob/master/Assets/GRE_logo.png" alt="GRE logo"></p>
 
 <h2 align="center">GRE</h2>
 
@@ -66,4 +66,4 @@ GRE复习主要用：
 [文件夹]: https://github.com/zhongqi1112/GRE/
 
 [打包下载]: https://github.com/zhongqi1112/GRE/archive/master.zip
-[使用 Git 下载]: https://github.com/zhongqi1112/GRE/blob/master/HowToUseGit.md
+[使用 Git 下载]: https://github.com/zhongqi1112/GRE/blob/master/Assets/HowToUseGit.md
