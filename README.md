@@ -1,4 +1,6 @@
-# GRE
+<p align="center"><img src="https://github.com/zhongqi1112/GRE/blob/master/GRE_logo.png" alt="GRE logo"></p>
+
+<h2 align="center">GRE</h2>
 
  > 我叫 [Stephen]，本科毕业于 [UCLA] 计算机数学专业，这是我收集的备考 [GRE](https://www.ets.org/gre)(Graduate Record Examinations) 的资料。
  
