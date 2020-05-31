@@ -6,7 +6,7 @@ Github Website: https://github.com/zhongqi1112/GRE
 
 运行以下命令即可：
 
-`git clone https://github.com/zhongqi1112/Hulk.git`
+`git clone https://github.com/zhongqi1112/GRE.git`
 
 Git 是一个版本控制工具，[GitHub] 是一个代码托管平台，关于 Git 和 GitHub 的更多信息可以浏览：
   
